@@ -5,10 +5,14 @@ Compilation instructions.
 
 To run and print the main file: 
 cd main
+
 python assignment_2.py 
+
 This should print out all the output that is located in myoutput.txt
 
 To test output: 
 cd 
+
 cd test 
+
 diff myoutput.txt output-2.txt
